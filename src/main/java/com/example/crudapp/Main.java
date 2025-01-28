@@ -1,8 +1,10 @@
 package com.example.crudapp;
 
 import com.example.crudapp.service.UserService;
+
 import java.sql.SQLException;
 import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
